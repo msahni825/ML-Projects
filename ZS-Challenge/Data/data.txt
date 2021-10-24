@@ -1,0 +1,5 @@
+0. AAC: license was cancelled during term
+1. AAI: license was issued
+2. INQ: license requires enquiry
+3. REA: license revocation has been appealed
+4. REV: license was revoked
